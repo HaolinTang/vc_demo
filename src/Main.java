@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hello, World!");
 
         System.out.println("This is my first git commit");
+
+        System.out.println("This is my second git commit");
     }
 }
